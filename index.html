@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nairobi Health Facilities</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <h1>Nairobi Health Facilities</h1>
+    <p id="status">3 facilities</p>
+  </header>
+  <div class="app">
+    <aside id="sidebar">
+      <label for="level-filter">Filter by level</label>
+      <select id="level-filter">
+        <option value="all">All levels</option>
+        <option value="6">Level 6 - Tertiary</option>
+        <option value="5">Level 5 - Secondary</option>
+        <option value="4">Level 4 - Primary hospital</option>
+        <option value="3">Level 3 - Health centre</option>
+      </select>
+      <section id="details">
+        <h2>Facility details</h2>
+        <p class="hint">Details will appear here once we add JavaScript.</p>
+      </section>
+      <ul id="facility-list"></ul>
+    </aside>
+    <main id="map-area">
+      <div id="map" ></div>
+      <div id="legend">
+        <h3>Facility level</h3>
+        <div class="legend-row"><span class="swatch" style="background-color: 
+#bd0026"></span>Level 6 - Tertiary</div>
+        <div class="legend-row"><span class="swatch" style="background-color: 
+#f03b20"></span>Level 5 - Secondary</div>
+        <div class="legend-row"><span class="swatch" style="background-color: 
+#fd8d3c"></span>Level 4 - Primary hospital</div>
+        <div class="legend-row"><span class="swatch" style="background-color: 
+#fecc5c"></span>Level 3 - Health centre</div>
+      </div>
+    </main>
+  </div>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js" defer></script>
+<script src="app.js" defer></script>
+</html>

@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "name": "nairobi_health_facilities_teaching",
+  "features": [
+    { "type": "Feature", "properties": { "id": 1,  "name": "Kenyatta National Hospital", "level": 6, "owner": "Public", "area": "Upper Hill" }, "geometry": { "type": "Point", "coordinates": [36.8069, -1.3011] } },
+    { "type": "Feature", "properties": { "id": 2,  "name": "Mathare National Teaching and Referral Hospital", "level": 6, "owner": "Public", "area": "Mathare" }, "geometry": { "type": "Point", "coordinates": [36.8476, -1.2615] } },
+    { "type": "Feature", "properties": { "id": 3,  "name": "Mama Lucy Kibaki Hospital", "level": 5, "owner": "Public", "area": "Umoja" }, "geometry": { "type": "Point", "coordinates": [36.8999, -1.2794] } },
+    { "type": "Feature", "properties": { "id": 4,  "name": "Mbagathi County Hospital", "level": 5, "owner": "Public", "area": "Mbagathi" }, "geometry": { "type": "Point", "coordinates": [36.7988, -1.3095] } },
+    { "type": "Feature", "properties": { "id": 5,  "name": "Pumwani Maternity Hospital", "level": 5, "owner": "Public", "area": "Pumwani" }, "geometry": { "type": "Point", "coordinates": [36.8441, -1.2826] } },
+    { "type": "Feature", "properties": { "id": 6,  "name": "The Nairobi Hospital", "level": 5, "owner": "Private", "area": "Upper Hill" }, "geometry": { "type": "Point", "coordinates": [36.8045, -1.2955] } },
+    { "type": "Feature", "properties": { "id": 7,  "name": "Aga Khan University Hospital", "level": 5, "owner": "Private", "area": "Parklands" }, "geometry": { "type": "Point", "coordinates": [36.8240, -1.2610] } },
+    { "type": "Feature", "properties": { "id": 8,  "name": "MP Shah Hospital", "level": 5, "owner": "Private", "area": "Parklands" }, "geometry": { "type": "Point", "coordinates": [36.8117, -1.2622] } },
+    { "type": "Feature", "properties": { "id": 9,  "name": "Gertrude's Children's Hospital", "level": 5, "owner": "Private", "area": "Muthaiga" }, "geometry": { "type": "Point", "coordinates": [36.8295, -1.2505] } },
+    { "type": "Feature", "properties": { "id": 10, "name": "Mater Misericordiae Hospital", "level": 5, "owner": "Faith-based", "area": "South B" }, "geometry": { "type": "Point", "coordinates": [36.8420, -1.3090] } },
+    { "type": "Feature", "properties": { "id": 11, "name": "The Karen Hospital", "level": 5, "owner": "Private", "area": "Karen" }, "geometry": { "type": "Point", "coordinates": [36.7495, -1.3373] } },
+    { "type": "Feature", "properties": { "id": 12, "name": "Nairobi West Hospital", "level": 4, "owner": "Private", "area": "Nairobi West" }, "geometry": { "type": "Point", "coordinates": [36.8265, -1.3108] } },
+    { "type": "Feature", "properties": { "id": 13, "name": "Coptic Hospital", "level": 4, "owner": "Faith-based", "area": "Ngong Road" }, "geometry": { "type": "Point", "coordinates": [36.7860, -1.3000] } },
+    { "type": "Feature", "properties": { "id": 14, "name": "Mutuini Sub-County Hospital", "level": 4, "owner": "Public", "area": "Dagoretti" }, "geometry": { "type": "Point", "coordinates": [36.6890, -1.2805] } },
+    { "type": "Feature", "properties": { "id": 15, "name": "Kayole II Sub-County Hospital", "level": 4, "owner": "Public", "area": "Kayole" }, "geometry": { "type": "Point", "coordinates": [36.9150, -1.2770] } },
+    { "type": "Feature", "properties": { "id": 16, "name": "Riruta Health Centre", "level": 3, "owner": "Public", "area": "Riruta" }, "geometry": { "type": "Point", "coordinates": [36.7400, -1.2905] } },
+    { "type": "Feature", "properties": { "id": 17, "name": "Kangemi Health Centre", "level": 3, "owner": "Public", "area": "Kangemi" }, "geometry": { "type": "Point", "coordinates": [36.7480, -1.2655] } },
+    { "type": "Feature", "properties": { "id": 18, "name": "Westlands Health Centre", "level": 3, "owner": "Public", "area": "Westlands" }, "geometry": { "type": "Point", "coordinates": [36.8060, -1.2665] } },
+    { "type": "Feature", "properties": { "id": 19, "name": "Ngara Health Centre", "level": 3, "owner": "Public", "area": "Ngara" }, "geometry": { "type": "Point", "coordinates": [36.8240, -1.2740] } },
+    { "type": "Feature", "properties": { "id": 20, "name": "Lunga Lunga Health Centre", "level": 3, "owner": "Public", "area": "Industrial Area" }, "geometry": { "type": "Point", "coordinates": [36.8640, -1.3080] } },
+    { "type": "Feature", "properties": { "id": 21, "name": "Kariobangi North Health Centre", "level": 3, "owner": "Public", "area": "Kariobangi" }, "geometry": { "type": "Point", "coordinates": [36.8790, -1.2520] } },
+    { "type": "Feature", "properties": { "id": 22, "name": "Baba Dogo Health Centre", "level": 3, "owner": "Public", "area": "Baba Dogo" }, "geometry": { "type": "Point", "coordinates": [36.8870, -1.2445] } },
+    { "type": "Feature", "properties": { "id": 23, "name": "Dandora I Health Centre", "level": 3, "owner": "Public", "area": "Dandora" }, "geometry": { "type": "Point", "coordinates": [36.8960, -1.2490] } }
+  ]
+}
